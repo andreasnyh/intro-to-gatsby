@@ -1,3 +1,5 @@
+- Making some routes
+- Displaying posts from .MD files with the use of a template
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
